@@ -1,2 +1,2 @@
-# practicas
-practicas de cursos
+# prácticas
+prácticas de cursos
